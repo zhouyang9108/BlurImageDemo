@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let imgView = UIImageView(frame: self.view.frame)
         self.view.addSubview(imgView)
-        self.createImageWithBlurGaussianBlur(UIImage(named: "nvshen")!, bgView: imgView, radius: 50)
+        self.createImageWithBlurGaussianBlur(UIImage(named: "nvshen")!, bgView: imgView, radius: 40)
         
     }
     //高斯模糊

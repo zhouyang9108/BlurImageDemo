@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96DCF3EB081D03235BAAE4FE02F08C8B8399A940",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E87B7D9BB7A8B5612FAF25C6C45AC7D7238FA393" : 9223372036854775807,
+    "96DCF3EB081D03235BAAE4FE02F08C8B8399A940" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9EF68536-5071-4F62-B99F-C3602C3B4527",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E87B7D9BB7A8B5612FAF25C6C45AC7D7238FA393" : "..",
+    "96DCF3EB081D03235BAAE4FE02F08C8B8399A940" : "sdktest7\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BlurImageDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BlurImageDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhouyang9108\/BlurImageDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96DCF3EB081D03235BAAE4FE02F08C8B8399A940"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.16.1.16\/ios-ktv\/KGMusiciOS8.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E87B7D9BB7A8B5612FAF25C6C45AC7D7238FA393"
+    }
+  ]
+}
